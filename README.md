@@ -7,3 +7,6 @@ The app is hosted with Shinyapps at https://dhirajraut.shinyapps.io/VisualVegeta
 Line chart is shown in the plot section and other related data is shown in Table view.
 
 Users can select among the different vegetables between any time period to view the plot.
+
+
+[![](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)](https://dhirajraut.shinyapps.io/VisualVegetables/)
